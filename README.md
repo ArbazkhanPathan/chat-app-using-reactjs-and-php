@@ -24,3 +24,6 @@ Your PHP should be run in the following server 8001
 
 To launch the chat app int the url
 ### `/chat` 
+
+for ie 
+### `http://localhost:3000/chat`
